@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Track It</string>
+    <string name="view_current_location">Current Locations</string>
+    <string name="updating_current_location">Sending Current Locations</string>
+    <string name="select_route">Available Routes</string>
+    
+    <string name="action_settings">Settings</string>
+
+    <string-array name="routes">
+        <item>Route 1</item>
+        <item>Route 3</item>
+        <item>Route 4</item>
+        <item>Route 5</item>
+        <item>Route 7</item>
+        <item>Route 8</item>
+        <item>Route 9</item>
+        <item>Route 35</item>
+    </string-array>
+
+    <string name="not_support_network">Network provider not supported</string>
+    <string name="not_support_gps">GPS provider not supported</string>
+    <string name="not_support_network">Network provider not supported</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="enable_gps_dialog">GPS provider not enabled. Would you like to enable it?</string>
+    <string name="update_location">GPS provider not enabled. Would you like to enable it?</string>
+
+</resources>
